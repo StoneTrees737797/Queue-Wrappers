@@ -26,7 +26,7 @@
 				<Property Name="Bld_localDestDir" Type="Path">/C/Users/candr/Documents/Software Dev/LabVIEW/Builds</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{BE6F29F9-4F6D-4949-BC8F-81C427BEBCC2}</Property>
-				<Property Name="Bld_version.build" Type="Int">1</Property>
+				<Property Name="Bld_version.build" Type="Int">2</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Queue Wrappers.lvlibp</Property>
 				<Property Name="Destination[0].path" Type="Path">/C/Users/candr/Documents/Software Dev/LabVIEW/Builds/NI_AB_PROJECTNAME.lvlibp</Property>
