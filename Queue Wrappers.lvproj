@@ -17,29 +17,28 @@
 		</Item>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build">
-			<Item Name="Queue Wrappers" Type="Packed Library">
+			<Item Name="Q Wrappers" Type="Packed Library">
 				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
-				<Property Name="Bld_buildCacheID" Type="Str">{BF995DBD-97A3-40A3-9133-7B2F661E0C7E}</Property>
-				<Property Name="Bld_buildSpecName" Type="Str">Queue Wrappers</Property>
+				<Property Name="Bld_buildCacheID" Type="Str">{20F3C05A-2799-4DA2-9143-149630271AB6}</Property>
+				<Property Name="Bld_buildSpecName" Type="Str">Q Wrappers</Property>
 				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
 				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
-				<Property Name="Bld_localDestDir" Type="Path">../Builds</Property>
-				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
+				<Property Name="Bld_localDestDir" Type="Path">/C/Users/candr/Documents/Software Dev/LabVIEW/Builds</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
-				<Property Name="Bld_previewCacheID" Type="Str">{BF700AEF-C8EE-44D2-A8DF-3D72E264BB69}</Property>
-				<Property Name="Bld_version.build" Type="Int">2</Property>
+				<Property Name="Bld_previewCacheID" Type="Str">{BE6F29F9-4F6D-4949-BC8F-81C427BEBCC2}</Property>
+				<Property Name="Bld_version.build" Type="Int">1</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Queue Wrappers.lvlibp</Property>
-				<Property Name="Destination[0].path" Type="Path">../Builds/NI_AB_PROJECTNAME.lvlibp</Property>
-				<Property Name="Destination[0].path.type" Type="Str">relativeToProject</Property>
+				<Property Name="Destination[0].path" Type="Path">/C/Users/candr/Documents/Software Dev/LabVIEW/Builds/NI_AB_PROJECTNAME.lvlibp</Property>
+				<Property Name="Destination[0].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
 				<Property Name="Destination[0].type" Type="Str">App</Property>
 				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
-				<Property Name="Destination[1].path" Type="Path">../Builds</Property>
-				<Property Name="Destination[1].path.type" Type="Str">relativeToProject</Property>
+				<Property Name="Destination[1].path" Type="Path">/C/Users/candr/Documents/Software Dev/LabVIEW/Builds</Property>
+				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="PackedLib_callersAdapt" Type="Bool">true</Property>
-				<Property Name="Source[0].itemID" Type="Str">{893AB917-C670-4633-8C49-965899AA34BB}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{358071B6-4E3B-442D-93BF-4A43103244D7}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Queue Wrappers/Q Wrappers.lvlib</Property>
@@ -51,11 +50,11 @@
 				<Property Name="Source[1].type" Type="Str">Library</Property>
 				<Property Name="SourceCount" Type="Int">2</Property>
 				<Property Name="TgtF_enableDebugging" Type="Bool">true</Property>
-				<Property Name="TgtF_fileDescription" Type="Str">Queue Wrappers</Property>
-				<Property Name="TgtF_internalName" Type="Str">Queue Wrappers</Property>
+				<Property Name="TgtF_fileDescription" Type="Str">Q Wrappers</Property>
+				<Property Name="TgtF_internalName" Type="Str">Q Wrappers</Property>
 				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2025 </Property>
-				<Property Name="TgtF_productName" Type="Str">Queue Wrappers</Property>
-				<Property Name="TgtF_targetfileGUID" Type="Str">{2262F2F2-3938-42C0-B49C-FC219EDA1865}</Property>
+				<Property Name="TgtF_productName" Type="Str">Q Wrappers</Property>
+				<Property Name="TgtF_targetfileGUID" Type="Str">{74F37BD3-80C8-44ED-8CC6-94AE06C3CB5F}</Property>
 				<Property Name="TgtF_targetfileName" Type="Str">Queue Wrappers.lvlibp</Property>
 				<Property Name="TgtF_versionIndependent" Type="Bool">true</Property>
 			</Item>
