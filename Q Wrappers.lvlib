@@ -13,6 +13,7 @@
 	<Item Name="Add.vi" Type="VI" URL="../Add.vi"/>
 	<Item Name="Destroy Q.vi" Type="VI" URL="../Destroy Q.vi"/>
 	<Item Name="Flush Q.vi" Type="VI" URL="../Flush Q.vi"/>
+	<Item Name="Flush Specific.vi" Type="VI" URL="../Flush Specific.vi"/>
 	<Item Name="Get All.vi" Type="VI" URL="../Get All.vi"/>
 	<Item Name="Get Next.vi" Type="VI" URL="../Get Next.vi"/>
 	<Item Name="New Q.vi" Type="VI" URL="../New Q.vi"/>
